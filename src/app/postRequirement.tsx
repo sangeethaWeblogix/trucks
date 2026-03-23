@@ -95,7 +95,7 @@ useEffect(() => {
             <div className="col-lg-6">
               <div className="home-post_head">
                 <h3>
-                  <span>Find Your Ideal Caravan</span>
+                  <span>Find Your Ideal Truck</span>
                   <br />– Post Your Requirements
                 </h3>
                 <p>

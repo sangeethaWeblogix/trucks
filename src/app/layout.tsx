@@ -19,7 +19,7 @@ import { BannerProvider } from "@/components/BannerHandler";
   
   export const metadata: Metadata = {
     title: {
-      default: "Motorhomes For Sale – Australia’s Marketplace for New & UsedCampervans",
+      default: "Trucks For Sale – Australia’s Marketplace for New & UsedCampervans",
       template: "%s ",
     },
     description:

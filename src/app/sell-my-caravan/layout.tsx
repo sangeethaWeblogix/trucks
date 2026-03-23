@@ -5,11 +5,11 @@ import { ReactNode } from "react";
 
  export const metadata: Metadata = {
    title: {
-     default: "Sell Your Caravan for $35 Until Sold |trucks.vercel.app",
+     default: "Sell Your Caravan for $35 Until Sold |trucks-topaz.vercel.app",
      template: "%s ",
    },
    description:
-     "Sell your caravan oncampervans.vercel.app for just $35 until sold. No subscriptions, no commissions, and connect directly with caravan buyers across Australia.",
+     "Sell your caravan on trucks-topaz.vercel.app for just $35 until sold. No subscriptions, no commissions, and connect directly with caravan buyers across Australia.",
    icons: { icon: "/favicon.ico" },
    robots: "index, follow",
    verification: {
