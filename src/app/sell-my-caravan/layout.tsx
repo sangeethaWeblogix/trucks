@@ -5,7 +5,7 @@ import { ReactNode } from "react";
 
  export const metadata: Metadata = {
    title: {
-     default: "Sell Your Caravan for $35 Until Sold |vans.vercel.app",
+     default: "Sell Your Caravan for $35 Until Sold |trucks.vercel.app",
      template: "%s ",
    },
    description:

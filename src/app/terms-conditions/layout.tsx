@@ -5,7 +5,7 @@ import { ReactNode } from "react";
 
  export const metadata: Metadata = {
    title: {
-     default: "Terms of Use –vans.vercel.app | Marketplace Network",
+     default: "Terms of Use –trucks.vercel.app | Marketplace Network",
      template: "%s ",
    },
    description:
@@ -22,7 +22,7 @@ import { ReactNode } from "react";
    
    openGraph: {
       url: "https://www.caravansforsale.com.au/terms-conditions/",
-     title: "Terms of Use –vans.vercel.app | Marketplace Network",
+     title: "Terms of Use –trucks.vercel.app | Marketplace Network",
        description:
      "Read the Terms of Use forcampervans.vercel.app, a marketplace platform operated by Marketplace Network Pty Ltd (ABN 70 694 987 052). Learn about listings, user responsibilities, and platform policies.",
      

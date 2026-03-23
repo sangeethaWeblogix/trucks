@@ -4,11 +4,11 @@ import { Metadata } from "next";
  
   export const metadata: Metadata = {
     title: {
-      default: "Vans For Sale – Australia’s Marketplace for New & UsedCampervans",
+      default: "Trucks For Sale – Australia’s Marketplace for New & UsedCampervans",
       template: "%s ",
     },
     description:
-      "Browse new & used Vans for sale across Australia. Compare prices on off-road, hybrid, pop top, touring, luxury models with size, weight & sleeping capacity",
+      "Browse new & used Trucks for sale across Australia. Compare prices on off-road, hybrid, pop top, touring, luxury models with size, weight & sleeping capacity",
     icons: { icon: "/favicon.ico" },
     robots: "index, follow",
     verification: {

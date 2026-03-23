@@ -304,7 +304,7 @@ const stateMeta: StateMeta = {
               Find your perfect usedcampervan for sale in Australia from thousands of listings across the country, listed by dealers and private sellers.
             </p>
             <p>
-              Whether you’re searching by price, weight, length, caravan type, sleeping capacity, manufacturer, or location,vans.vercel.app makes it easy to compare options and find the right caravan for your lifestyle. Browse Australia-wide used caravan listings, explore popular categories, and access expert buying guides to help you make a confident decision.
+              Whether you’re searching by price, weight, length, caravan type, sleeping capacity, manufacturer, or location,trucks.vercel.app makes it easy to compare options and find the right caravan for your lifestyle. Browse Australia-wide used caravan listings, explore popular categories, and access expert buying guides to help you make a confident decision.
             </p>
             <a href="/listings/used-condition/" className="btn">
               Browse Used Caravans

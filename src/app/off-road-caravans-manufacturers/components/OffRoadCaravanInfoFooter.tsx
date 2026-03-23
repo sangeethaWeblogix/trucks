@@ -31,7 +31,7 @@ const OffRoadCaravanInfoFooter = () => {
           <p>
             We showcase off-road caravans and brands that don &apos;t attend all
             the big events and don &apos;t spend big on advertising. So all the
-            money goes towards building good quality off road vans.
+            money goes towards building good quality off road trucks.
           </p>
         </div>
       </div>

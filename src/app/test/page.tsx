@@ -7,7 +7,7 @@ import React from 'react'
       template: "%s ",
     },
     description:
-      "Browse new & used vans for sale across Australia. Compare prices on off-road, hybrid, pop top, touring, luxury models with size, weight & sleeping capacity",
+      "Browse new & used trucks for sale across Australia. Compare prices on off-road, hybrid, pop top, touring, luxury models with size, weight & sleeping capacity",
     icons: { icon: "/favicon.ico" },
     robots: "noindex, nofollow",
     verification: {

@@ -175,7 +175,7 @@ export default function HomePage() {
           <div className="row">
             <div className="col">
               <div className="section-head mb-4">
-                <h2>Explore all things vans</h2>
+                <h2>Explore all things trucks</h2>
               </div>
             </div>
           </div>
@@ -321,9 +321,9 @@ export default function HomePage() {
                   <div className="explore-boxes">
                     {/* Box 1 */}
                     <div className="explore-box active">
-                      <h3>See New Van Listings</h3>
+                      <h3>See New Truck Listings</h3>
                       <p>
-                        Browse the latest new Vans from top dealerships in Australia.
+                        Browse the latest new Trucks from top dealerships in Australia.
                       </p>
                       <a href="/listings/new-condition/" className="btn btn-primary">
                         Browse New Listings
@@ -333,9 +333,9 @@ export default function HomePage() {
 
                     {/* Box 2 */}
                     <div className="explore-box">
-                      <h3>Used Vans For Sale</h3>
+                      <h3>Used Trucks For Sale</h3>
                       <p>
-                        Find great deals on quality used vans for sale by dealers and
+                        Find great deals on quality used trucks for sale by dealers and
                         private sellers.
                       </p>
                       <a href="/listings/used-condition/" className="btn btn-primary">
@@ -346,9 +346,9 @@ export default function HomePage() {
 
                     {/* Box 3 */}
                     <div className="explore-box">
-                      <h3>See All Vans</h3>
+                      <h3>See All Trucks</h3>
                       <p>
-                        Explore the full range of new and used vans across Australia.
+                        Explore the full range of new and used trucks across Australia.
                       </p>
                       <a href="/listings/" className="btn btn-primary">
                         Start Searching
@@ -371,12 +371,12 @@ export default function HomePage() {
                     <div className="row align-items-center">
                       <div className="col-lg-6">
                         <div className="content">
-                          <h3 className="title">Sell Your Van Today!</h3>
+                          <h3 className="title">Sell Your Truck Today!</h3>
 
                           <p className="desc">
                             Reach thousands of potential buyers in minutes.
                             <br />
-                            List your  van for sale on <a href="https://vans-mu.vercel.app/">vans.vercel.app,</a>
+                            List your  truck for sale on <a href="https://trucks-mu.vercel.app/">trucks.vercel.app,</a>
                             <br />
                             the trusted marketplace for Aussie caravan owners.
                           </p>

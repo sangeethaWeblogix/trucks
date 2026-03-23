@@ -159,7 +159,7 @@ const stateMeta: StateMeta = {
         key: "Region",
         label: "Location",
         cards: regionBands.map((item) => ({
-          title: "Vans for Sale in " + item.region,
+          title: "Trucks for Sale in " + item.region,
           sub: `${item.caravan_count ?? 0}`,
           url: `/listings/${item.permalink}`,
         })),
@@ -168,7 +168,7 @@ const stateMeta: StateMeta = {
         key: "price",
         label: "Price",
         cards: priceBands.map((item) => ({
-          title: "Vans for Sale " + item.short_label,
+          title: "Trucks for Sale " + item.short_label,
           sub: `${item.caravan_count ?? 0}`,
           url: `/listings/${item.permalink}`,
         })),
@@ -177,7 +177,7 @@ const stateMeta: StateMeta = {
         key: "Weight",
         label: "Weight",
         cards: atmBands.map((item) => ({
-          title: "Vans for Sale " + item.short_label,
+          title: "Trucks for Sale " + item.short_label,
           sub: `${item.caravan_count ?? 0}`,
           url: `/listings/${item.permalink}`,
         })),
@@ -186,7 +186,7 @@ const stateMeta: StateMeta = {
         key: "Sleep",
         label: "Sleep",
         cards: sleepBands.map((item) => ({
-          title: "Vans for Sale " + item.short_label,
+          title: "Trucks for Sale " + item.short_label,
           sub: `${item.caravan_count ?? 0}`,
           url: `/listings/${item.permalink}`,
         })),
@@ -195,7 +195,7 @@ const stateMeta: StateMeta = {
         key: "Length",
         label: "Length",
         cards: lengthBands.map((item) => ({
-          title: "Vans for Sale " + item.short_label,
+          title: "Trucks for Sale " + item.short_label,
           sub: `${item.caravan_count ?? 0}`,
           url: `/listings/${item.permalink}`,
         })),
@@ -213,7 +213,7 @@ const stateMeta: StateMeta = {
         key: "Manufacturer",
         label: "Manufacturer",
         cards: manufactureBands.map((item) => ({
-          title: item.short_label + " Vans for Sale",
+          title: item.short_label + " Trucks for Sale",
           sub: `${item.caravan_count ?? 0}`,
           url: `/listings/${item.permalink}`,
         })),
@@ -232,7 +232,7 @@ const stateMeta: StateMeta = {
     {
       type: "Off Road",
       budget: "$85,000",
-      msg: "Couples van, approx 19ft tandem axel, tare approx 2200kg. Atm up to 3300kg. Full time touring, off grid essentials.",
+      msg: "Couples truck, approx 19ft tandem axel, tare approx 2200kg. Atm up to 3300kg. Full time touring, off grid essentials.",
     },
     {
       type: "Hybrid",
@@ -247,7 +247,7 @@ const stateMeta: StateMeta = {
     {
       type: "Luxury",
       budget: "$100,000",
-      msg: "Slide out van under 3500kg. Suitable for Ford Ranger Next Gen. 2–3 beds preferred.",
+      msg: "Slide out truck under 3500kg. Suitable for Ford Ranger Next Gen. 2–3 beds preferred.",
     },
   ];
 
@@ -482,10 +482,10 @@ const stateMeta: StateMeta = {
           <div className="col-lg-12">
             <div className="section-head text-center">
               <h1 className="divide-orange">
-                Browse New &amp; Used Vans For Sale
+                Browse New &amp; Used Trucks For Sale
               </h1>
               <p>
-                Find your ideal van from thousands of new and used listings
+                Find your ideal truck from thousands of new and used listings
                 across Australia’s top brands, dealers, and private sellers.
                 Search by type, condition, location, and budget.
               </p>
@@ -769,7 +769,7 @@ const stateMeta: StateMeta = {
           <div className="row">
             <div className="col">
               <div className="section-head mb-2 py-2">
-                <h2>Browse Vans for sale in Australia by State</h2>
+                <h2>Browse Trucks for sale in Australia by State</h2>
               </div>
             </div>
           </div>
@@ -824,7 +824,7 @@ const stateMeta: StateMeta = {
                                   className="view_all"
                                   href={`/listings${item.permalink}`}
                                 >
-                                  View All Vans for Sale in {stateCode}{" "}
+                                  View All Trucks for Sale in {stateCode}{" "}
                                   <i className="bi bi-chevron-right"></i>
                                 </a>
                               </div>
@@ -847,7 +847,7 @@ const stateMeta: StateMeta = {
       <div className="quick_links_tabs">
         <div className="container">
           <div className="section-head mb-2 py-2">
-            <h2>Popular Van Searches Across Australia</h2>
+            <h2>Popular Truck Searches Across Australia</h2>
           </div>
           <div className="custom-tabs-wrap">
             {/* Tabs */}

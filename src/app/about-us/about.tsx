@@ -36,12 +36,12 @@ export default function AboutUs() {
                 We have identified specific caravan manufacturers who build quality
                 caravans in various categories including off road, on road, touring
                 caravans. These manufacturers don’t spend big on advertising and do not
-                participate much on the show. However, the quality of the van is as good
+                participate much on the show. However, the quality of the truck is as good
                 as or even better than the big brands who spend big on their marketing.
                 They spend a fraction of the cost on advertising with us, however, we
                 are determined to showcase them to the buyer so it is a win-win for both
                 manufacturer and the buyer. Hence, you get better value for money and
-                higher quality vans, while the manufacturer can focus solely on building
+                higher quality trucks, while the manufacturer can focus solely on building
                 quality caravans.
               </p>
 

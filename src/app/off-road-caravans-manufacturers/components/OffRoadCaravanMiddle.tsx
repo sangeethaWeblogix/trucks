@@ -46,7 +46,7 @@ export default function OffRoadCaravanMiddle() {
                 We have showcased below the best off-road caravan manufacturers
                 and brands that don&apos;t participate in all the big events and
                 spend big on advertising. So, all the spend goes towards
-                building good quality off road vans.
+                building good quality off road trucks.
               </p>
               <h3>
                 1.
@@ -72,7 +72,7 @@ export default function OffRoadCaravanMiddle() {
                   </li>
                   <li>
                     Build Focus: Resources are efficiently managed and dedicated
-                    to high-quality van construction.
+                    to high-quality truck construction.
                   </li>
                   <li>
                     Australian Owned & Operated: Australian Caravan
@@ -216,7 +216,7 @@ export default function OffRoadCaravanMiddle() {
                   </li>
                   <li>
                     Build Focus: All resources are well managed and dedicated to
-                    quality construction of the van.
+                    quality construction of the truck.
                   </li>
                   <li>Australian Owned & Operated: Proudly Australian.</li>
                   <li>
@@ -321,7 +321,7 @@ export default function OffRoadCaravanMiddle() {
                 <ul>
                   <li>
                     Manufacturing Costs: Operates from a little factory in
-                    Campbellfield, Melbourne but builds better quality vans than
+                    Campbellfield, Melbourne but builds better quality trucks than
                     other off road caravan manufacturers.
                   </li>
                   <li>
@@ -331,7 +331,7 @@ export default function OffRoadCaravanMiddle() {
                   </li>
                   <li>
                     Build Focus: Resources are efficiently managed and focused
-                    on high-quality van construction.
+                    on high-quality truck construction.
                   </li>
                   <li>Australian Owned & Operated: Proudly Australian.</li>
                   <li>
@@ -656,7 +656,7 @@ export default function OffRoadCaravanMiddle() {
                   </li>
                   <li>
                     Production Philosophy: Focuses on producing a limited number
-                    of vans to ensure superior quality and craftsmanship.
+                    of trucks to ensure superior quality and craftsmanship.
                   </li>
                   <li>
                     Technology: Incorporates the latest advancements in
@@ -746,12 +746,12 @@ export default function OffRoadCaravanMiddle() {
                     features with comfort.
                   </li>
                   <li>
-                    Production Cost: With a focus on efficiency and vans built
+                    Production Cost: With a focus on efficiency and trucks built
                     in China, costs are very well maintained.
                   </li>
                   <li>
                     Advertising: Modest advertising approach, rely instead on
-                    the quality of their vans to speak for themselves.
+                    the quality of their trucks to speak for themselves.
                   </li>
                   <li>
                     Off-Road Engineering: Apache&apos;s models are engineered

@@ -79,7 +79,7 @@ export default function CaravanManufacturers() {
                 <ul>
                   <li>
                     Manufacturing Costs: Operates from a little factory in
-                    Campbellfield, Melbourne but builds better quality vans than
+                    Campbellfield, Melbourne but builds better quality trucks than
                     other caravan manufacturers.
                   </li>
                   <li>
@@ -89,7 +89,7 @@ export default function CaravanManufacturers() {
                   </li>
                   <li>
                     Build Focus: Resources are efficiently managed and focused
-                    on high-quality van construction.
+                    on high-quality truck construction.
                   </li>
                   <li>Australian Owned & Operated: Proudly Australian.</li>
                   <li>
@@ -217,7 +217,7 @@ export default function CaravanManufacturers() {
                   </li>
                   <li>
                     Build Focus: Resources are efficiently managed and dedicated
-                    to high-quality van construction.
+                    to high-quality truck construction.
                   </li>
                   <li>
                     Australian Owned &amp; Operated: Australian Caravan
@@ -305,7 +305,7 @@ export default function CaravanManufacturers() {
                   </li>
                   <li>
                     Build Focus: All resources are well managed and dedicated to
-                    quality construction of the van.
+                    quality construction of the truck.
                   </li>
                   <li>Australian Owned &amp; Operated: Proudly Australian.</li>
                   <li>
@@ -606,7 +606,7 @@ export default function CaravanManufacturers() {
 
               <p>
                 Not sure where to start? Red Centre Caravans have got you
-                covered. Off road, on road or hybrid van, they have one. And
+                covered. Off road, on road or hybrid truck, they have one. And
                 hello, they have a 10 year structural warranty on their
                 aluminium frame.
               </p>
@@ -670,7 +670,7 @@ export default function CaravanManufacturers() {
                   </li>
                   <li>
                     Production Philosophy: Focuses on producing a limited number
-                    of vans to ensure superior quality and craftsmanship.
+                    of trucks to ensure superior quality and craftsmanship.
                   </li>
                   <li>
                     Technology: Incorporates the latest advancements in
@@ -842,7 +842,7 @@ export default function CaravanManufacturers() {
                     travellers for quality, value, and performance.
                   </li>
                   <li>
-                    <strong>What to Expect:</strong> Long-lasting, stylish vans
+                    <strong>What to Expect:</strong> Long-lasting, stylish trucks
                     that let you enjoy the road—not the repairs.
                   </li>
                 </ul>
@@ -922,7 +922,7 @@ export default function CaravanManufacturers() {
                   </li>
                   <li>
                     <strong>Diverse Line-up:</strong> From compact tourers to
-                    spacious family vans, Apache offers caravans to suit every
+                    spacious family trucks, Apache offers caravans to suit every
                     lifestyle.
                   </li>
                   <li>

@@ -20,7 +20,7 @@ export default function CaravanBuyingSafetyGuide() {
               </p>
 
               <p>
-               vans.vercel.app connects buyers and sellers, but transactions take place directly between those parties.
+               trucks.vercel.app connects buyers and sellers, but transactions take place directly between those parties.
                 The following safety guidelines will help you make informed decisions and reduce the risk of scams.
               </p>
 
@@ -227,7 +227,7 @@ export default function CaravanBuyingSafetyGuide() {
               <h3>Important Disclaimer</h3>
 
               <p>
-               vans.vercel.app is an online marketplace operated by Marketplace Network Pty Ltd.
+               trucks.vercel.app is an online marketplace operated by Marketplace Network Pty Ltd.
                 We connect buyers and sellers but do not participate in transactions between users.
               </p>
 

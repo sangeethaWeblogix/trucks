@@ -67,11 +67,11 @@ export default function EverestCaravans() {
                 <h2>Hand Crafted for Every Journey</h2>
                 <h3>Built to Last</h3>
                 <p>
-                  Every van is hand built with premium materials to withstand
+                  Every truck is hand built with premium materials to withstand
                   the Australian climate. Structural strength and advanced
                   engineering means these caravans are both durable and
                   luxurious. With Everest you can travel the country knowing
-                  your van will last.
+                  your truck will last.
                 </p>
               </div>
             </div>

@@ -17,7 +17,7 @@ const OffRoadCaravanInfo = () => {
           <p>We are here to make a difference and to genuinely help both the consumer and the manufacturer.</p>
           <p>
             We showcase off-road caravans and brands that don’t attend all the big events and don’t spend big on advertising.
-            So all the money goes towards building good quality off road vans.
+            So all the money goes towards building good quality off road trucks.
           </p>
         </div>
       </div>

@@ -592,7 +592,7 @@ export default function ListingContent({
                                 onClick={(e) => e.stopPropagation()}
                               >
                                 {item.is_exclusive && (
-                                  <span className="lab">Spotlight Van</span>
+                                  <span className="lab">Spotlight Truck</span>
                                 )}
 
                                 <Swiper
@@ -892,7 +892,7 @@ export default function ListingContent({
                     {" "}
                     <div className="product-card">
                       <div className="img">
-                        <span className="lab">Spotlight Van</span>
+                        <span className="lab">Spotlight Truck</span>
                         <Image
                           src={firstImage || "/images/placeholder.png"}
                           alt="Caravan"

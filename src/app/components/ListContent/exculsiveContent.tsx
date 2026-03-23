@@ -370,7 +370,7 @@ export default function ExculisiveContent({
                   No caravans match your filters
                 </h4>
                 <p className="text-gray-500 mt-1 max-w-md">
-                  Here are some Spotlight Vans that may interest you.
+                  Here are some Spotlight Trucks that may interest you.
                 </p>
               </div>
             </div>
@@ -421,7 +421,7 @@ export default function ExculisiveContent({
                               className="main_thumb position-relative"
                               onClick={(e) => e.stopPropagation()}
                             >
-                              <span className="lab">Spotlight Van</span>
+                              <span className="lab">Spotlight Truck</span>
 
                               <Swiper
                                 key={`${swiperKey}-${item.id}`}

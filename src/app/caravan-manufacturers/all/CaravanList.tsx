@@ -141,7 +141,7 @@ export default function CaravanManufacturers() {
                   alt="Summitt"
                   title="Summitt - FULL OFF ROAD"
                   subtitle="FULL OFF ROAD"
-                  shortinfo="Traveling with 3 kids? No worries with the SUMMITT! Reach places larger vans can&#8217;t with Everest quality and style, featuring a full ensuite, spacious living area, queen island bed, and off-road, off-grid capabilities. Pack up the family and come see for yourself—but be warned, the kids might not want to leave!"
+                  shortinfo="Traveling with 3 kids? No worries with the SUMMITT! Reach places larger trucks can&#8217;t with Everest quality and style, featuring a full ensuite, spacious living area, queen island bed, and off-road, off-grid capabilities. Pack up the family and come see for yourself—but be warned, the kids might not want to leave!"
                   link="https://www.caravansforsale.com.au/range/summitt-everest-caravans/"
                 />
               </SwiperSlide>
